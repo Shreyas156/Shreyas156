@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shreyas156
-- 👀 I’m interested in New Tech
+- 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning BE
-- 💞️ I’m looking to collaborate on AI  
+- 💞️ I’m looking to collaborate on Web Dev Projects 
 - 📫 How to reach me shreyaspeherkar04@gmail.com
 
 <!---
