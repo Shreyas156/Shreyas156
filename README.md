@@ -1,7 +1,7 @@
 - Hi, I’m @Shreyas156
-- I’m interested in Web Dev
-- I’m currently learning BE
-- I’m looking to collaborate on Web Dev Projects 
+- I’m interested in Web Dev,Application Development.
+- I’m currently pursining BE at Sinhgad Institute of Technology,Lonavala.
+- I’m looking to collaborate on Web Dev Projects also Java Based Projects.
 - You can reach reach me shreyaspeherkar04@gmail.com
 
 <!---
