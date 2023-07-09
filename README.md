@@ -1,7 +1,6 @@
-[!MasterHead](https://www.123rf.com/photo_102988806_vector-line-web-concept-for-programming-linear-web-banner-for-coding.html)
 <h1 align="center">Hi 👋, I'm Shreyas Bhaginath Peherkar</h1>
 <h3 align="center">I'm passionate Web Developer & Application Developer from India</h3>
-<img src = "right" alt=Coding" width="400" src="https://i.gifer.com/8JIk.gif">
+<img align="right" alt="Coding" width = "400" src="https://i.gifer.com/8JIk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas156&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas156" /> </p>
 
