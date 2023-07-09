@@ -1,4 +1,4 @@
-![logo](https://github.com/Shreyas156/Shreyas156/blob/main/8JIk.gif)
+![logo](https://github.com/Shreyas156/Shreyas156/blob/main/My%20project-1.png)
 <h1 align="center">Hi 👋, I'm Shreyas Bhaginath Peherkar</h1>
 <h3 align="center">I'm passionate Web Developer & Application Developer from India</h3>
 <img align="right" alt="Coding" width = "400" src="https://i.gifer.com/8JIk.gif">
