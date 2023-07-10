@@ -1,6 +1,6 @@
 ![logo](https://github.com/Shreyas156/Shreyas156/blob/main/My%20project-1.png)
 <h1 align="center">Hi 👋, I'm Shreyas Bhaginath Peherkar</h1>
-<h3 align="center">I'm passionate Web Developer & Application Developer from India</h3>
+<h3 align="center">I'm passionate for Web Developer & Application Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas156&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas156" /> </p>
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/56shreyas" target="blank"><img src="https://img.shields.io/twitter/follow/56shreyas?logo=twitter&style=for-the-badge" alt="56shreyas" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript Projects**
+- 🔭 I’m currently working on **Web Development Projects,JavaScript Projects**
 
-- 🌱 I’m currently learning **APIs.**
+- 🌱 I’m currently learning **APIs,Linux**
 
-- 💬 Ask me about **Javascript,**
+- 💬 Ask me about **Javascript,Github,Git,Linux**
 
 - 📫 How to reach me **shreyaspeherkar04@gmail.com**
 
