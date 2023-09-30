@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Web Development Projects,JavaScript Projects**
 
-- 🌱 I’m currently learning **APIs,Linux**
+- 🌱 I’m currently learning **,Tailwind Framework,APIs,Linux**
 
 - 💬 Ask me about **Javascript,Github,Git,Linux**
 
